@@ -1,4 +1,4 @@
-To use it, run the command: `pip install Pillow`.
+- To use it, run the command: `pip install Pillow`.
 ---
-in beta
+- in beta
 ---
